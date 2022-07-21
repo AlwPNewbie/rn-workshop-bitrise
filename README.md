@@ -20,5 +20,3 @@ yarn test
 # or
 yarn test:watch
 ```
-
-hello world
